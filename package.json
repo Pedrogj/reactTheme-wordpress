@@ -11,6 +11,14 @@
   "dependencies": {
     "next": "13.0.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sass": "^1.56.1"
+  },
+  "devDependencies": {
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-import": "^15.0.0",
+    "postcss-preset-env": "^7.8.3",
+    "precss": "^4.0.0",
+    "tailwindcss": "^3.2.4"
   }
 }
